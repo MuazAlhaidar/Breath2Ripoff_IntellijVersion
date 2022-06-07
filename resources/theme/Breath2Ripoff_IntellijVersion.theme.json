@@ -3,15 +3,24 @@
   "author": "H___O___R___S___E",
   "dark": true,
   "colors": {
-    "primaryRed": "#821010"
+    "primaryRed": "#821010",
+    "DarkGreenBlue": "#172021",
+    "BrighterDarkGreenBlue": "#222b2e",
+    "primaryGold": "#d7af5f"
   },
   "ui": {
-    "Button.background": "primaryRed"
+    "Button.background": "DarkGreenBlue",
+    "Button.arc": 10,
+    "EditorPane.background": "DarkGreenBlue",
+    "EditorPane.foreground": "primaryGold",
+    "Label.background": "BrighterDarkGreenBlue",
+    "Label.foreground": "primaryGold",
+    "Editor.background": "BrighterDarkGreenBlue"
   },
   "background": {
     "anchor": "top_left",
     "fill": "scale",
-    "transparency": 0,
+    "transparency": 100,
     "image": "/home/omunam/Linux-Windows/Github/Breath2Ripoff_IntellijVersion/resources/images/background.png"
   }
 }
