@@ -1,0 +1,17 @@
+{
+  "name": "Breath2Ripoff_IntellijVersion",
+  "author": "H___O___R___S___E",
+  "dark": true,
+  "colors": {
+    "primaryRed": "#821010"
+  },
+  "ui": {
+    "Button.background": "primaryRed"
+  },
+  "background": {
+    "anchor": "top_left",
+    "fill": "scale",
+    "transparency": 0,
+    "image": "/home/omunam/Linux-Windows/Github/Breath2Ripoff_IntellijVersion/resources/images/background.png"
+  }
+}
