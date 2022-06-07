@@ -6,21 +6,30 @@
     "primaryRed": "#821010",
     "DarkGreenBlue": "#172021",
     "BrighterDarkGreenBlue": "#222b2e",
-    "primaryGold": "#d7af5f"
+    "primaryGold": "#d7af5f",
+    "BrightGreen": "#17a88b",
+    "BrownBlack": "#252526"
   },
   "ui": {
+    "Panel.background": "DarkGreenBlue",
     "Button.background": "DarkGreenBlue",
     "Button.arc": 10,
+    "Menu.background": "DarkGreenBlue",
+    "Menu.foreground": "BrightGreen",
+    "Menu.borderColor": "DarkGreenBlue",
+    "Menu.separatorColor": "primaryGold",
+    "SidePanel.background": "BrighterDarkGreenBlue",
+    "Tree.background": "BrighterDarkGreenBlue",
+    "Tree.foreground": "BrightGreen",
+    "List.background": "BrighterDarkGreenBlue",
     "EditorPane.background": "DarkGreenBlue",
     "EditorPane.foreground": "primaryGold",
+    "Editor.background": "DarkGreenBlue",
+    "EditorTabs.background": "DarkGreenBlue",
+    "EditorTabs.borderColor": "DarkGreenBlue",
+    "CheckBox.background": "DarkGreenBlue",
     "Label.background": "BrighterDarkGreenBlue",
     "Label.foreground": "primaryGold",
-    "Editor.background": "BrighterDarkGreenBlue"
-  },
-  "background": {
-    "anchor": "top_left",
-    "fill": "scale",
-    "transparency": 100,
-    "image": "/home/omunam/Linux-Windows/Github/Breath2Ripoff_IntellijVersion/resources/images/background.png"
+    "StatusBar.borderColor": "DarkGreenBlue"
   }
 }
