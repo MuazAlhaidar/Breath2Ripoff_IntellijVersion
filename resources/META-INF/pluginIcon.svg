@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="512"
+   height="512"
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14, custom)"
+   sodipodi:docname="Breath2RipoffIcon.svg"
+   inkscape:export-filename="../../../../Breath2Ripoff_VSCodeVersion/Icon/Breath2RipoffIcon.svg"
+   inkscape:export-xdpi="24"
+   inkscape:export-ydpi="24"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-center="false"
+     inkscape:zoom="2"
+     inkscape:cx="222"
+     inkscape:cy="243.75"
+     inkscape:window-width="1256"
+     inkscape:window-height="1351"
+     inkscape:window-x="23"
+     inkscape:window-y="15"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer5"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="true"
+     inkscape:showpageshadow="0"
+     inkscape:deskcolor="#505050">
+    <sodipodi:guide
+       position="256,256"
+       orientation="0,1"
+       id="guide307405"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="256,256"
+       orientation="-1,0"
+       id="guide307407"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#172021;fill-opacity:1;fill-rule:evenodd;stroke-width:1.00595"
+       id="rect32"
+       width="512"
+       height="512"
+       x="0"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="BackgroundColor1">
+    <path
+       style="fill:#222b2e;fill-opacity:1;stroke:#222b2e;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0,0 H 216 L 512,512 0,0"
+       id="path369446"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="BackgroundColor2"
+     style="display:inline">
+    <path
+       style="fill:#515b5e;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 216,0 512,512 400,0 H 216"
+       id="path370745"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="BackgroundColor3"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:#9aa5a9;fill-opacity:1;stroke:#000000;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 400,0 H 512 V 512 L 400,0"
+       id="path371302" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Letters"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:240px;line-height:1.25;font-family:sans-serif;fill:#168d75;fill-opacity:1;stroke:none"
+       x="42.279999"
+       y="342.88"
+       id="text62271"><tspan
+         sodipodi:role="line"
+         id="tspan62269"
+         x="42.279999"
+         y="342.88"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:240px;font-family:'Sans-serif Bold Italic';-inkscape-font-specification:'Sans-serif Bold Italic,  Bold Italic';fill:#168d75;fill-opacity:1">B2R</tspan></text>
+  </g>
+</svg>
